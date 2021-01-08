@@ -1,0 +1,456 @@
+[
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 0,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 50,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 1750
+},
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 55,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 3750
+},
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 25,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 3900
+},
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 10,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4000
+},
+{
+  "type": "muscle",
+  "muscle": "calf",
+  "contraction": 0,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 25,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1000
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1500
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 2000
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4000
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 40,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 4250
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 5000
+},
+{
+  "type": "muscle",
+  "muscle": "glutes",
+  "contraction": 25,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 6000
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 10,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 35,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1000
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1250
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 10,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1500
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 15,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 2000
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 20,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 5000
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 25,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 5500
+},
+{
+  "type": "muscle",
+  "muscle": "hamstring",
+  "contraction": 15,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 6000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 10,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 55,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 500
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 50,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 750
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 35,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1500
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 35,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 2000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 45,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 2750
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 3000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 50,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 70,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 5000
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 65,
+  "flag": "bad",
+  "priority": 1,
+  "timestamp": 5500
+},
+{
+  "type": "muscle",
+  "muscle": "outer leg",
+  "contraction": 40,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 6000
+},
+{
+  "type": "align",
+  "percent": 0,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "align",
+  "percent": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 500
+},
+{
+  "type": "align",
+  "percent": 25,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 725
+},
+{
+  "type": "align",
+  "percent": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1000
+},
+{
+  "type": "align",
+  "percent": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 1500
+},
+{
+  "type": "align",
+  "percent": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 2000
+},
+{
+  "type": "align",
+  "percent": 20,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4000
+},
+{
+  "type": "align",
+  "percent": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "align",
+  "percent": 30,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 5000
+},
+{
+  "type": "align",
+  "percent": 35,
+  "flag": "good",
+  "priority": 1,
+  "timestamp": 5500
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 0,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 20
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 1,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 500
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 2,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 1000
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 3,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 1500
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 3,
+  "zpos": .5,
+  "priority": 1,
+  "timestamp": 1750
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 3,
+  "zpos": .25,
+  "priority": 1,
+  "timestamp": 2000
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 0,
+  "zpos": 0,
+  "priority": 1,
+  "timestamp": 2250
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 3,
+  "zpos": .25,
+  "priority": 1,
+  "timestamp": 4500
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 3,
+  "zpos": .5,
+  "priority": 1,
+  "timestamp": 5000
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 2,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 5500
+},
+{
+  "type": "weightdist",
+  "xpos": 0,
+  "ypos": 1,
+  "zpos": 1,
+  "priority": 1,
+  "timestamp": 6000
+}
+]
