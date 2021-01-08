@@ -1,2 +1,1 @@
-# computerAudio
-Sonification project for computer audio course
+# Computer Audio Sonification Project
